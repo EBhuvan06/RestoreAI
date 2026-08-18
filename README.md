@@ -89,9 +89,9 @@ The model achieves a strong balance between restoration quality and computationa
 pip install -r requirements.txt
 ```
 ### Run Inference
-```
-Bashpython run.py <input-dir> <output-dir>
+```bash
+python run.py <input-dir> <output-dir>
 ```
 ### Example:
-```
-Bashpython run.py ./input ./output
+```bash
+python run.py ./input ./output
