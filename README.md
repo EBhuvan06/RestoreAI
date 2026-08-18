@@ -68,6 +68,7 @@ This combination provides robustness to outliers while maintaining good PSNR and
 ## 3. Performance
 
 ### Validation Results
+
 | Metric       | Value          |
 |--------------|----------------|
 | **PSNR**     | **29.18 dB**   |
@@ -83,6 +84,6 @@ The model achieves a strong balance between restoration quality and computationa
 
 ## 4. How to Run
 
-### Requirements
+### Install Dependencies
 ```bash
 pip install -r requirements.txt
