@@ -87,3 +87,8 @@ The model achieves a strong balance between restoration quality and computationa
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+Run Inference
+Bashpython run.py <input-dir> <output-dir>
+Example:
+Bashpython run.py ./input ./output
